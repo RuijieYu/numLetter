@@ -1,0 +1,5 @@
+# python ignores
+__pycache__/
+
+# random vscode plugin
+.vscode/.ropeproject/
